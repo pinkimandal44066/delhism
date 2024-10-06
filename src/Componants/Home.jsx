@@ -1,4 +1,4 @@
-import Particle from "./Particle";
+// import Particle from "./Particle";
 import Homeone from "./Homeone";
 import Preloader from "./Preloader";
 import Heropage from "../Componants/Heropage";
@@ -6,9 +6,9 @@ import Heropage from "../Componants/Heropage";
 const Home = () => {
   return (
     <>
-      <Heropage />
-      <Preloader />
-      <Particle />
+      {/* <Heropage /> */}
+      {/* <Preloader /> */}
+      {/* <Particle /> */}
       <Homeone />
     </>
   );
