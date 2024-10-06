@@ -1,7 +1,7 @@
 // import Particle from "./Particle";
 import Homeone from "./Homeone";
-import Preloader from "./Preloader";
-import Heropage from "../Componants/Heropage";
+// import Preloader from "./Preloader";
+// import Heropage from "../Componants/Heropage";
 
 const Home = () => {
   return (
